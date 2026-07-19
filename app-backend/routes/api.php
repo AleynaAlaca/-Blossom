@@ -5,5 +5,5 @@ use App\Http\Controllers\Api\TodoController;
 
 Route::get('/todos', [TodoController::class, 'index']);
 Route::post('/todos', [TodoController::class, 'store']);
-Route::put('/todos/{id}', [TodoController::class, 'update']);
-Route::delete('/todos/{id}', [TodoController::class, 'destroy']);
+Route::put('/todos/{todo}', [TodoController::class, 'update']);
+Route::delete('/todos/{todo}', [TodoController::class, 'destroy']);

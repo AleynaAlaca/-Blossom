@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="blossom" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF9A86"/>
+      <stop offset=".55" stop-color="#FFB399"/>
+      <stop offset="1" stop-color="#FFD6A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#blossom)"/>
+  <g fill="#57332F" transform="translate(32 32)">
+    <ellipse cy="-13" rx="8" ry="13"/>
+    <ellipse cy="-13" rx="8" ry="13" transform="rotate(72)"/>
+    <ellipse cy="-13" rx="8" ry="13" transform="rotate(144)"/>
+    <ellipse cy="-13" rx="8" ry="13" transform="rotate(216)"/>
+    <ellipse cy="-13" rx="8" ry="13" transform="rotate(288)"/>
+    <circle r="7" fill="#FFF0BE"/>
+  </g>
+</svg>
