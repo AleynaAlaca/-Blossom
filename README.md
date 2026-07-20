@@ -124,7 +124,7 @@ npm run dev
 
 ## Ortam Değişkenleri
 
-Backend ayarları `app-backend/.env` üzerinden yönetilir. Proje varsayılan olarak MySQL kullanır. SQLite veya PostgreSQL kullanmak için Laravel'in `DB_*` değişkenlerini ilgili bağlantı bilgileriyle güncelleyin ve migrasyonları yeniden çalıştırın.
+Backend ayarları `app-backend/.env` üzerinden yönetilir. Proje varsayılan olarak SQLite kullanır. Mysql veya PostgreSQL kullanmak için Laravel'in `DB_*` değişkenlerini ilgili bağlantı bilgileriyle güncelleyin ve migrasyonları yeniden çalıştırın.
 
 ## Kullanılabilir Komutlar
 
