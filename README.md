@@ -198,5 +198,6 @@ npm run build
 - **Değişken güncellenmesine rağmen bağlantı değişmiyorsa:** `.env` değişikliğinden sonra Vite geliştirme sunucusunu yeniden başlatın.
 - **Migrasyon hatası alıyorsanız:** Backend dizininde `php artisan migrate:status` komutuyla mevcut durumu kontrol edin.
 
-<img width="1685" height="991" alt="image" src="https://github.com/user-attachments/assets/f67ee116-8896-4890-a99f-59fa47ad5013" />
+<img width="1024" height="1536" alt="blossom png" src="https://github.com/user-attachments/assets/b5bfa4d7-1167-40f9-b31f-3c999fdcc705" />
+
 
