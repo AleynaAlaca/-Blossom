@@ -1,11 +1,13 @@
 # 🌸 Blossom
 
 Blossom; görevleri, yaklaşan ödemeleri, alışkanlık serilerini ve odak oturumlarını tek bir arayüzden yönetmek için geliştirilmiş modern bir kişisel planlama uygulamasıdır.
-Daha önce gelştirmiş olduğum TO-DO uygulamsı basit bir arayüze sahipken üzerinde biraz geliştirme yapılmış ve " Blossom " ortaya çıkmıştır
+Daha önce gelştirmiş olduğum TO-DO uygulaması basit bir arayüze sahipken üzerinde biraz geliştirme yapılmış ve " Blossom " ortaya çıkmıştır
+
+Proje, **Vue 3 + Vite** tabanlı bağımsız bir istemci ile **Laravel 13** tabanlı REST API'den oluşur. Görev ve ödeme kayıtları backend üzerinden veritabanında saklanırken alışkanlık ve odak verileri tarayıcıda yerel olarak tutulur.
 
 <img width="1024" height="1536" alt="blossom png" src="https://github.com/user-attachments/assets/b5bfa4d7-1167-40f9-b31f-3c999fdcc705" />
 
-Proje, **Vue 3 + Vite** tabanlı bağımsız bir istemci ile **Laravel 13** tabanlı REST API'den oluşur. Görev ve ödeme kayıtları backend üzerinden veritabanında saklanırken alışkanlık ve odak verileri tarayıcıda yerel olarak tutulur.
+
 
 ## Özellikler
 
